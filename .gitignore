@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Model checkpoints (cache large weights)
+models/*.pt
+!models/.gitkeep
+
+# Outputs (keep directory, ignore heavy outputs)
+outputs/*
+!outputs/.gitkeep
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

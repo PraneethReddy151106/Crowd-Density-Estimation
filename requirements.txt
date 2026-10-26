@@ -1,0 +1,19 @@
+# Core Deep Learning & Computer Vision
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+
+# Web Application & Interactive UI
+streamlit>=1.30.0
+
+# Scientific Computing & Data Analysis
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+pillow>=9.5.0
+scipy>=1.10.0
+
+# Video Encoding & Media Utilities
+imageio>=2.30.0
+imageio-ffmpeg>=0.4.8
